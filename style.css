@@ -1,0 +1,15 @@
+body {
+	text-align: center;
+}
+
+/* poner a la derecha*/
+.alignLeft {
+	float: left;
+}
+
+.alignRight {
+	float: right;
+}
+table {
+	text-align: left;
+}
